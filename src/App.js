@@ -1,4 +1,4 @@
-import ExcelToJsonConverter from './components/ExcelToJsonConverter';
+import ExcelToJsonConverter from './components/ExcelToJsonConverter.js';
 
 function App() {
   return (
